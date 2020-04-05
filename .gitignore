@@ -1,0 +1,21 @@
+Intermediate/
+Saved/
+Build/
+StarterContent/
+DerivedDataCache/
+Binaries/
+.vs/
+.idea/
+SentinelArtifacts/
+_SentinelCache/
+/UnrealEngine
+
+*.db
+*.sln
+*.ddc
+
+# Built data for maps
+# *_BuiltData.uasset
+
+UE4/
+SentinelCLI/
